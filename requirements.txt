@@ -1,0 +1,9 @@
+osmnx 
+pandas
+geopy
+scikit-learn
+numpy 
+matplotlib 
+plotly 
+folium 
+streamlit-folium 
